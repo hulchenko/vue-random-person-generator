@@ -1,1 +1,1 @@
-Vue.js Random Puppy Generator
+Vue.js v3 Random Puppy Generator
